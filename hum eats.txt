@@ -1,0 +1,94 @@
+                      HUM EATS- VERSION 2.4.2
+
+After download:
+     After downloading  the app  when we enter  the enter  the app for first time it gives us some tips we can read that else we can skip that also.
+     After that we will  enter the app as guest and we can  go through about the app as a guest also and for placing order we must login into the account,
+     and we can allow or deny the location request of the app.
+REGISTER:
+    when we enter the app for first time we need to register else we can login if we are a already a user.
+
+   THE  REGISTER PAGE CONSISTS OF:
+ 
+     FULL NAME:
+     EMAIL ID:
+     PASSWORD:
+All the field must be filled for register , it will show error if we enter the wrong email id and existing one, the password must be more than 6 characters.
+
+   LOGIN:
+   
+    If we are a already user we can login,It as
+
+     Email Id:
+     Password:
+
+Incase if we have forgot the pasword we  can click on that option and change your password.If the  mail  and password match only you can login.
+
+
+       HOME PAGE
+ 
+   In home page first we have a menu icon
+
+     MENU ICON:
+
+In that we have list
+      Home
+      Notification
+      My orders
+      Favorite food
+And the Application perferences like
+      Help&support:
+        It tell us about What is hum eats?  How does it work?   How will  I Know  if I will be hungry  after 7 hours?
+     Languages:
+        English,Arabic,spanish,French,Portugese,Korean.
+    Dark Mode:
+        By default it is light mode, we can change that also.
+
+      SEARCH BUTTON:
+     After that  there is search button in that we can search your favourite restaurant or foods there.
+   
+     FILTER BUTTON:
+    There is a filter button in that you can see
+     
+  Deliver
+  Opened Restaurants
+  Cusines  Like:
+      continental
+      Italian
+      Salads
+      Healthy
+      Biriyani
+      South Indian
+      Desserts
+      Snacks
+      Bakery
+      Chinese
+      Indian
+      Thai
+      Greek
+      Vietnamese
+      French
+
+ We can apply the filter and see the shops that satisfy your needs.
+
+
+ After this a slideshow is there it shows the most buyed and new products .
+After that we can see the  Top  Restaurants list and their rating and distance
+Then You can see the trending dish of the weeks there.
+Then you can see the available food categories, if we select any categories we can see the dishes related to that there.
+Again we can see the Most Popular Restaurants.
+
+
+
+If we like any particular Restaurants we can click on that it will show you about the restaurant and the dishes available there and the review of the restaurant and you can add extra things also and increase the count you want and add that to your  carts and favourite.
+we can also see the price and see wether the shop is open and reviews of the dish also.
+
+
+The Home page also consists of menu like notification there we can  check the  notifications.
+Location is also there we can see the restaurants nearby you.
+My Orders there you can see your previous order.
+Favourite It shows your favourite items there.
+
+
+For Buying:
+ After adding the food to your cart you can select the cart in that you can see the shopping details like  you can increase  the items and when you need your product and 
+apply coupons if  You have and the final amount you have to pay and proceed the order
