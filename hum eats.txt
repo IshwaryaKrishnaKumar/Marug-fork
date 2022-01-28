@@ -92,3 +92,5 @@ Favourite It shows your favourite items there.
 For Buying:
  After adding the food to your cart you can select the cart in that you can see the shopping details like  you can increase  the items and when you need your product and 
 apply coupons if  You have and the final amount you have to pay and proceed the order
+
+Audio and video calls
